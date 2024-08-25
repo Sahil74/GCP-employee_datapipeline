@@ -8,7 +8,7 @@ transforming and loading it into BigQuery using Data Fusion, and visualizing it 
 Apache Airflow manages and schedules the entire workflow.
 
 ## Architecture
-![Data Visualization](./images/visualization.png)
+![Data Visualization](./Architecture.png)
 
 ## Workflow
 
@@ -18,3 +18,6 @@ Apache Airflow manages and schedules the entire workflow.
 - Data Visualization: Create interactive reports and dashboards in Looker Studio using the BigQuery dataset.
 - Automation: Manage and automate the ETL pipeline with Apache Airflow (Cloud Composer).
 
+## Visulization
+
+[View the Project Documentation](./Employee_Report.pdf)
